@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cfd126c.chunk.css",
+    "main.js": "/static/js/main.a2cdf98e.chunk.js",
+    "main.js.map": "/static/js/main.a2cdf98e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3f5e756b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3f5e756b.js.map",
+    "static/js/2.c35c3e3b.chunk.js": "/static/js/2.c35c3e3b.chunk.js",
+    "static/js/2.c35c3e3b.chunk.js.map": "/static/js/2.c35c3e3b.chunk.js.map",
+    "static/js/3.f0b1af58.chunk.js": "/static/js/3.f0b1af58.chunk.js",
+    "static/js/3.f0b1af58.chunk.js.map": "/static/js/3.f0b1af58.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7cfd126c.chunk.css.map": "/static/css/main.7cfd126c.chunk.css.map",
+    "static/js/2.c35c3e3b.chunk.js.LICENSE.txt": "/static/js/2.c35c3e3b.chunk.js.LICENSE.txt",
+    "static/media/Bill.bba3f387.png": "/static/media/Bill.bba3f387.png",
+    "static/media/Margo.21ef7d5f.png": "/static/media/Margo.21ef7d5f.png",
+    "static/media/Phone.8b837aaf.png": "/static/media/Phone.8b837aaf.png",
+    "static/media/Phone2.4048f47f.png": "/static/media/Phone2.4048f47f.png",
+    "static/media/Rectangle.c96b29a0.png": "/static/media/Rectangle.c96b29a0.png",
+    "static/media/Sridhar.595593dd.png": "/static/media/Sridhar.595593dd.png",
+    "static/media/Vivek.342b6896.png": "/static/media/Vivek.342b6896.png",
+    "static/media/dog.0f8c8c74.png": "/static/media/dog.0f8c8c74.png",
+    "static/media/frame.2d9d5772.png": "/static/media/frame.2d9d5772.png",
+    "static/media/frame2.2895534a.png": "/static/media/frame2.2895534a.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/newNorkGimes.729459f1.png": "/static/media/newNorkGimes.729459f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f5e756b.js",
+    "static/js/2.c35c3e3b.chunk.js",
+    "static/css/main.7cfd126c.chunk.css",
+    "static/js/main.a2cdf98e.chunk.js"
+  ]
+}
